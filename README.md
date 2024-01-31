@@ -6,3 +6,15 @@
 
 ### Página Inicial:
 [jogoteca1.png](https://github.com/ViniciusBardelin/webapp-flask/blob/main/jogoteca1.png)
+
+### Página Login:
+
+[jogoteca2.png](https://github.com/ViniciusBardelin/webapp-flask/blob/main/jogoteca2.png)
+
+### Cadastrando um Novo Jogo:
+
+[jogoteca3.png](https://github.com/ViniciusBardelin/webapp-flask/blob/main/jogoteca3.png)
+
+### Fazendo Logout:
+
+[jogoteca4.png](https://github.com/ViniciusBardelin/webapp-flask/blob/main/jogoteca4.png)
