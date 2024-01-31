@@ -4,17 +4,17 @@
 
 ### Para cadastrar algum jogo, o usuário deve fazer login. Foi criado também uma rota de logout. A estética da aplicação foi feita utilizando templates HTML.
 
-### Página Inicial:
+#### Página Inicial:
 [jogoteca1.png](https://github.com/ViniciusBardelin/webapp-flask/blob/main/jogoteca1.png)
 
-### Página Login:
+#### Página Login:
 
 [jogoteca2.png](https://github.com/ViniciusBardelin/webapp-flask/blob/main/jogoteca2.png)
 
-### Cadastrando um Novo Jogo:
+#### Cadastrando um Novo Jogo:
 
 [jogoteca3.png](https://github.com/ViniciusBardelin/webapp-flask/blob/main/jogoteca3.png)
 
-### Fazendo Logout:
+#### Fazendo Logout:
 
 [jogoteca4.png](https://github.com/ViniciusBardelin/webapp-flask/blob/main/jogoteca4.png)
