@@ -4,6 +4,8 @@
 
 ### Para cadastrar algum jogo, o usuário deve fazer login. Foi criado também uma rota de logout. A estética da aplicação foi feita utilizando templates HTML.
 
+### ⬇️ Clique nos links abaixo para ver fotos da aplicação ⬇️
+
 #### Página Inicial:
 [jogoteca1.png](https://github.com/ViniciusBardelin/webapp-flask/blob/main/jogoteca1.png)
 
